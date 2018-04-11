@@ -1,3 +1,5 @@
+![](screenshot.png)
+
 # whimsy-terminal
 
 > A whimsical theme for [Hyper](https://hyper.is)
