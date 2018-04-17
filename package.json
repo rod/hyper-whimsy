@@ -1,9 +1,9 @@
 {
-  "name": "whimsy-hyper",
+  "name": "hyper-whimsy",
   "version": "1.0.0",
   "description": "A whimsical theme for Hyper",
   "main": "index.js",
-  "repository": "https://github.com/rod/whimsy-hyper",
+  "repository": "https://github.com/rod/hyper-whimsy",
   "author": "Rodney Dennis",
   "license": "MIT"
 }
