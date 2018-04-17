@@ -34,6 +34,8 @@ exports.decorateConfig = (config) => {
       lightWhite: white
     },
     css: `
+      ${config.css || ''}
+
       .hyper_main {
         border-width: 0px;
       }
