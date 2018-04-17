@@ -1,5 +1,6 @@
-const text = '#b3b0d6';
-const black = '#29283b';
+const bg = '#29283b';
+const fg = '#b3b0d6';
+const black = '#535178';
 const red = '#ef6487';
 const green = '#5eca89';
 const yellow = '#fdd877';
@@ -10,9 +11,9 @@ const white = '#ffffff';
 
 exports.decorateConfig = (config) => {
   return Object.assign({}, config, {
-    cursorColor: text,
-    foregroundColor: text,
-    backgroundColor: black,
+    cursorColor: fg,
+    foregroundColor: fg,
+    backgroundColor: bg,
     borderColor: black,
     colors: {
       black,
