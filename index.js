@@ -33,5 +33,10 @@ exports.decorateConfig = (config) => {
       lightCyan: cyan,
       lightWhite: white
     },
+    css: `
+      .hyper_main {
+        border-width: 0px;
+      }
+    `
   });
 }
