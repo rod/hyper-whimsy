@@ -1,6 +1,6 @@
-![](screenshot.png)
+![Screenshot](screenshot.png)
 
-# whimsy-hyper
+# hyper-whimsy
 
 > A whimsical theme for [Hyper](https://hyper.is)
 
@@ -11,13 +11,13 @@ Add `whimsy-hyper` to the plugins list
 module.exports = {
   ...
   plugins: [
-    'whimsy-hyper'
+    'hyper-whimsy'
   ],
 }
 ```
 
 ## Related
-- [whimsy-iterm2](https://github.com/rod/whimsy-iterm2)
+- [iterm2-whimsy](https://github.com/rod/iterm2-whimsy)
 - [whimsy-terminal](https://github.com/rod/whimsy-terminal)
 
 ## License
