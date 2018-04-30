@@ -1,4 +1,4 @@
-![Screenshot](screenshot.png)
+![Screenshot](https://raw.github.com/rod/hyper-whimsy/master/screenshot.png)
 
 # hyper-whimsy
 
