@@ -1,4 +1,4 @@
-![Screenshot](https://raw.github.com/rod/hyper-whimsy/master/screenshot.png)
+![](screenshot.png)
 
 # hyper-whimsy
 > A whimsical theme for [Hyper](https://hyper.is)
@@ -22,4 +22,4 @@ module.exports = {
 - [terminal-whimsy](https://github.com/rod/terminal-whimsy)
 
 ## License
-MIT @ [Rodney Dennis](https://rod.today)
+MIT @ [Rodney Dennis](https://rod.sh)
