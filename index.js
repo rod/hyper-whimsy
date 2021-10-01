@@ -8,6 +8,7 @@ const blue = '#65aef7';
 const magenta = '#aa7ff0';
 const cyan = '#43c1be';
 const white = '#ffffff';
+const select = "#424865";
 
 exports.decorateConfig = (config) => {
   return Object.assign({}, config, {
@@ -15,6 +16,7 @@ exports.decorateConfig = (config) => {
     foregroundColor: fg,
     backgroundColor: bg,
     borderColor: black,
+    selectionColor: select,
     colors: {
       black,
       red,
